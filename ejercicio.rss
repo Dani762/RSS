@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Página principal W3S Schools</title>
+  <link>https://www.w3schools.com</link>
+  <description>El mejor lugar de tutoriales</description>
+  <item>
+    <title>RSS Tutorial</title>
+    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <description>Tutorial para aprender RSS</description>
+  </item>
+  <item>
+    <title>Marca</title>
+    <link>https://www.marca.com</link>
+    <description>Página web Marca, noticias deportivas</description>
+  </item>
+</channel>
+
+</rss>
